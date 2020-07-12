@@ -30,5 +30,9 @@ Attributions
 #### Fonts
 
 #### Images
+- 'Burger with Sliced Vegetable' by Tobias Nii Kwatei Quartey. Find his Unsplash here: [@kingtobie](https://unsplash.com/@kingtobie)
+
+#### Patterns
+- Background SVG 'I Like Food' by [HeroPatterns](https://heropatterns.com)
 
 #### Udacity
