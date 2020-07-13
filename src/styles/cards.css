@@ -37,6 +37,31 @@
   font-weight: bold;
 }
 
+/* .card-content > h1 {}
+.card-content > h2 {} */
+
+.card-content > h3 {
+  font-size: 1.75em;
+  margin-top: 0em;
+  margin-bottom: 0em;
+}
+
+/* .card-content > h4 {} */
+
+.card-content > h5 {
+  font-size: 1.25em;
+  font-weight: 500;
+  margin-top: 0em;
+  margin-bottom: 0em;
+}
+
+.card-content > h6 {
+  font-size: 1em;
+  font-weight: 500;
+  margin-top: 0em;
+  margin-bottom: 0.5em;
+}
+
 .card:hover {
   transform: scale(1.025); 
   box-shadow: 0 5px 5px 0 rgba(0,0,0,0.25);
