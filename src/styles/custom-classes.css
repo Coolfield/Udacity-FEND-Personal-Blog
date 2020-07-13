@@ -24,7 +24,8 @@
 }
 
 .socialGrid img {
-  width: 100%
+  width: 100%;
+  border-radius: 15px;
 }
 
 .header{
@@ -44,4 +45,19 @@
 .divider {
   text-align: center;
   justify-content: center;
+}
+
+.socialShare{
+  margin: auto;
+}
+
+.caption {
+  padding-top: 0;
+  margin-top: 0;
+  font-size: 0.75em;
+}
+
+.singleImg {
+  width: 100%;
+  border-radius: 15px;
 }
