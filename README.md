@@ -12,6 +12,9 @@ About
 ---------
 This is a simple two-page demo for a generic personal blog website. This is the first project form the Udacity Front End Developer Nanodegree, build inline with the project ruberic availabe [here](https://review.udacity.com/#!/rubrics/2667/view).
 
+With the exception of font-awesome this site requires no externally hosted assets and has no third-party
+html, css or javascript assets. No libraries. No frameworks.
+
 How to deploy
 ----------------
 This project can be forked and used as a blog with minimum set-up or editing required.
@@ -29,6 +32,8 @@ More on the design language can be found in [design-language.md](design-language
 
 Attributions
 ---------------
+#### Lorem Ipsum
+- Bacon Ipsum is the default placeholder text, by [baconipsum](https://baconipsum.com/)
 
 #### Fonts
 - Primary Font 'Montserrat' by [GoogleFonts](https://fonts.google.com/specimen/Montserrat)
@@ -37,7 +42,8 @@ Attributions
 #### Images
 - 'Burger with Sliced Vegetable' by Tobias Nii Kwatei Quartey. Find his Unsplash here: [@kingtobie](https://unsplash.com/@kingtobie)
 - 'Pizzaa' by Parth Vsquare. Find their Unsplash here: [@parth_v2](https://unsplash.com/@parth_v2)
-- 'cheese bacon hamburger' by amirali mirhashemian. Find their Unsplash here: [@amir_v_ali](https://unsplash.com/@amir_v_ali)
+- 'Cheese Bacon Hamburger' by amirali mirhashemian. Find their Unsplash here: [@amir_v_ali](https://unsplash.com/@amir_v_ali)
+- 'Man Wearing Yellow Crew-Neck Near White Wall' by Imansyah Muhamad Putera. Find his Unsplash here: [@imansyahmp](https://unsplash.com/@imansyahmp)
 
 #### Patterns
 - Background SVG 'I Like Food' by [HeroPatterns](https://heropatterns.com)

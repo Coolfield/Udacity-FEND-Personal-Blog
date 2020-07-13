@@ -60,3 +60,30 @@
   width: 100%;
   border-radius: 15px;
 }
+
+.demoBox{
+  height: 150px;
+  width: 150px;
+  border: #ff2222 dashed;
+}
+
+#f8f8f8 {
+  color: #f8f8f8;
+  background-color: #f8f8f8;
+}
+
+#e5e5db {
+  color: #e5e5db;
+  background-color: #e5e5db;
+}
+
+#ff2222 {
+  color: #ff2222;
+  background-color: #ff2222;
+  border: #f8f8f8 dashed;
+}
+
+#black {
+  color: #000;
+  background-color: #000;
+}
