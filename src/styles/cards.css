@@ -28,7 +28,6 @@
   padding-bottom: 0.5em;
 }
 
-
 .card > img {
   border-radius: 15px 15px 0 0;
   width: 100%
@@ -44,16 +43,11 @@
   justify-content: center;
 }
 
-/* .card-content > h1 {}
-.card-content > h2 {} */
-
 .card-content > h3 {
   font-size: 1.75em;
   margin-top: 0em;
   margin-bottom: 0em;
 }
-
-/* .card-content > h4 {} */
 
 .card-content > h5 {
   font-size: 1.25em;
@@ -77,12 +71,6 @@
 .card-content {
   margin: 0.5em;
 }
-
-/* .card-content > h1, h2, h3, h4, h5, h6 {
-  text-align: center;
-} */
-
-
 
 /*
 -------------------------
