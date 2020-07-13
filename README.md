@@ -1,7 +1,8 @@
 Udacity-FEND-Personal-Blog
 ============================
 Personal Blog project from the Udacity Front End Developer Nanodegree programme.
-Live [here](https://coolfield.github.io/Udacity-FEND-Personal-Blog/src/)
+
+Live on gh-pages [here](https://coolfield.github.io/Udacity-FEND-Personal-Blog/src/)
 
 ![Maintenance](https://img.shields.io/maintenance/yes/2020?logo=github&style=for-the-badge)
 ![GitHub last commit](https://img.shields.io/github/last-commit/coolfield/Udacity-FEND-Personal-Blog?style=for-the-badge)
@@ -14,6 +15,7 @@ This is a simple two-page demo for a generic personal blog website. This is the 
 How to deploy
 ----------------
 This project can be forked and used as a blog with minimum set-up or editing required.
+As the files are static it is easy to deploy on almost any storage platform or static hosting platform following the respective platforms hosting tutorials.
 
 Design Language
 ------------------
@@ -29,11 +31,16 @@ Attributions
 ---------------
 
 #### Fonts
+- Primary Font 'Montserrat' by [GoogleFonts](https://fonts.google.com/specimen/Montserrat)
+- Secondary Font 'Roboto' by [GoogleFonts](https://fonts.google.com/specimen/Roboto)
 
 #### Images
 - 'Burger with Sliced Vegetable' by Tobias Nii Kwatei Quartey. Find his Unsplash here: [@kingtobie](https://unsplash.com/@kingtobie)
+- 'Pizzaa' by Parth Vsquare. Find their Unsplash here: [@parth_v2](https://unsplash.com/@parth_v2)
+- 'cheese bacon hamburger' by amirali mirhashemian. Find their Unsplash here: [@amir_v_ali](https://unsplash.com/@amir_v_ali)
 
 #### Patterns
 - Background SVG 'I Like Food' by [HeroPatterns](https://heropatterns.com)
 
 #### Udacity
+- Many thanks to Udacity for the inspiration for this project!
