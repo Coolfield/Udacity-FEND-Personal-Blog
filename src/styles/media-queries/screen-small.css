@@ -1,0 +1,20 @@
+/* ==========================================
+
+               Small Screen
+               ~~~~~~~~~~~
+  These styles are used on tablets and
+  modern phones with larger displays
+
+========================================== */
+
+
+.authorimg {
+  grid-column-start: 1;
+  grid-column-end: 2;
+}
+
+.authortext {
+  grid-column-start: 3;
+  grid-column-end: 4;
+}
+

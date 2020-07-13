@@ -1,0 +1,26 @@
+/* If Screen Is Wide Enough
+@media(min-width:3000) {
+  .contentGrid{
+    display: grid;
+    grid-template-columns: 33% 33% 33%;
+  }
+
+  .socialGrid{
+    display: grid;
+    grid-template-columns: 33% 33% 33%;
+  }
+} */
+
+/* ----------------------
+ - Media queries are set in the respective folder;
+ the default styles are for mobile/ small displays
+ with small-screes.css setting styles for tablets
+ and modern phones, medium-screen.css sets styles
+ for larger tablets and desktop and 
+ screen-large.css can OPTIONALLY be used by 
+ uncommenting the code to create 3 column grids on
+ larger displays, but is not enabled by default and
+ will require tweaking depending on the size of
+ display and content of the columns. I do not
+ reccomend using it but it is there optionally.
+------------------------*/

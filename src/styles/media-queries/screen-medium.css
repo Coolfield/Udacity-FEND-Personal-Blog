@@ -1,0 +1,41 @@
+/* ==========================================
+
+               Medium Styles
+               ~~~~~~~~~~~
+  This file ia used for larger tablets and
+  desktop displays.
+
+========================================== */
+
+.container{
+    display:grid;
+    grid-template-columns: 20% 60%;
+    grid-template-rows: fit-content(100px);
+    grid-template-areas: 
+    "hd hd"
+    "sd main"
+}
+
+.sidebar{
+  display: unset;
+}
+
+.contentGrid{
+  display: grid;
+  grid-template-columns: 50% 50%;
+}
+
+.socialGrid{
+  display: grid;
+  grid-template-columns: 33% 33% 33%;
+}
+
+.navbar a {
+  padding-right: 1.5em;
+  font-size: 1.5em;
+}
+
+.navbar > #right {
+  padding-left: 1.5em;
+  font-size: 1.5em;
+}

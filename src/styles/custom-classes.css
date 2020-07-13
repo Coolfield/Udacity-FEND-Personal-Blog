@@ -1,0 +1,45 @@
+/* ==========================================
+
+             Custom Classes
+             ~~~~~~~~~~~~~~
+  All misc custom styles are set in this
+  file.
+
+========================================== */
+
+
+.container{
+  display:flex;
+  flex-direction: column;
+  justify-content: center;
+  flex: 1;
+  background-color: #f8f8f8;
+  border-radius: 15px;
+}
+
+.socialItem{
+  margin: 5px;
+}
+
+.socialGrid img {
+  width: 100%
+}
+
+.header{
+  grid-area:hd;
+}
+
+.sidebar{
+  grid-area: sd;
+  display: none;
+}
+
+.content{
+  grid-area: main;
+  padding: 0 1.5em;
+}
+
+.divider {
+  text-align: center;
+  justify-content: center;
+}
